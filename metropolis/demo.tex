@@ -11,15 +11,16 @@
 
 \usepackage{xspace}
 \newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+\newcommand{\bol}[1]{\textbf{#1}}
 
-\title{Manifold Learning}
-\subtitle{A Geometry View on Machine Learning}
+\title{Non-linear Dimensionality Reduction}
+\subtitle{t-Distributed Stochastic Neighbor Embedding}
 % \date{\today}
 \date{}
 \author{Xiaoyu Xue}
-\institute{Microsoft-BingAds-UCM}
+\institute{Microsoft BingAds UCM}
 % \titlegraphic{\hfill\includegraphics[height=1.5cm]{logo.pdf}}
-
+ \metroset{block=fill}
 \begin{document}
 
 \maketitle
@@ -29,7 +30,64 @@
   \tableofcontents[hideallsubsections]
 \end{frame}
 
-\section{Introduction}
+\section{Dimensionality Reduction}
+\begin{frame}{Dimensionality Reduction}
+\begin{block}{Definition of dimensionality reduction:}
+Given a set of data $X = [\bold{x}_1,\ldots,\bold{x}_m]$, $\bold{x}_i \in \mathbb{R}^n$, find a map $f: \mathbb{R}^n \to \mathbb{R}^d$, make $\bold{y}_i = f(\bold{x}_i) \textrm{ and } d\ll n$. Where $f = (f_1, \ldots, f_n)$, $f_i: \mathbb{R}^n \to \mathbb{R}$
+\end{block}
+\bigskip
+\begin{block}{Linear Dimensionality Reduction}
+If $f_i$ is a linear map, $f = P = [\bold{p}_1, \ldots, \bold{p}_n], \bold{y}_i = P^T\bold{x}_i$
+\end{block}
+\end{frame}
+
+\begin{frame}{Dimensionality reduction: Some Assumptions }
+\begin{enumerate}
+\setlength{\itemsep}{5pt}
+\setlength{\parsep}{5pt}
+\setlength{\parskip}{5pt}
+	\item High-dimensional data often lies on or near a much lower dimensional, curved manifold 
+	\item A good way to represent data points is by their low-dimensional coordinates.
+	\item The low-dimensional representation of the data should capture information about highdimensional 		pairwise distances. 
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Dimensionality Reduction}
+\begin{itemize}
+\setlength{\itemsep}{12pt}
+\setlength{\parsep}{12pt}
+\setlength{\parskip}{12pt}
+	\item \textbf{Linear Dimensionality Reduction}: PCA(Principal Components Analysis), LDA(Linear Discriminant Analysis), MDS(Classical Multidimensional Scaling) 
+	\item \textbf{None-Linear Dimensionality Reduction}: Isomap(Isometric Mapping), LLE(Locally Linear Embedding), LE(Laplacian Eigenmaps), \textbf{tSNE}(t-Distributed Stochastic Neighbor Embedding)
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Stochastic Neighbor Embedding}
+Define the similarity of data point $\bold{x}_i$ in original space as conditional probability $p_{j|i}$. It is the probability that $\bold{x}_i$ would pick $bol{x}_j$ as its neighbor under a Gaussian centered at $\bol{x}_i$
+\begin{displaymath}
+	p_{j|i} = \frac{\exp{(-\Vert\bol{x}_i - \bol{x}_j\Vert^2 / 2\sigma_i^2)}}{\sum_{k \neq i}\exp(-\Vert\bol{x}_i - \bol{x}_k\Vert^2 / 2\sigma_i^2)}
+\end{displaymath}
+In low-dimensional space, define the similarity $q_{j|i}$
+\begin{displaymath}
+	q_{j|i} = \frac{\exp{(-\Vert\bol{y}_i - \bol{y}_j\Vert^2)}}{\sum_{k \neq i}\exp(-\Vert\bol{y}_i - \bol{y}_k\Vert^2)}
+\end{displaymath}
+\end{frame}
+
+\begin{frame}{Cost function of SNE}
+If the map points $\bol{y}_i$ and $\bol{y}_j$ correctly model the similarity between the high-diminsional datapoints $\bol{x}_i$ and $\bol{x}_j$, the conditional probability $p_{j|i}$ and $q_{j|i}$ will be equal. Use the Kullback-Leibler divergences to minimize the mismatch:
+\begin{displaymath}
+	Cost = \sum_i KL(P_i||Q_i) = \sum_i\sum_j p_{j|i} \log\frac{p_{j|i}}{q_{j|i}}
+\end{displaymath}
+\begin{displaymath}
+	\frac{\partial Cost}{\partial \bol{y}_i} = 2\sum_j (p_{j|i} - q_{j|i} + p_{i|j} - q_{i|j})(\bol{y}_i - \bol{y}_j)
+\end{displaymath}
+\end{frame}
+
+
+\begin{frame}{Stochastic Neighbor Embedding}
+
+\end{frame}
+
 
 \begin{frame}[fragile]{Metropolis}
 

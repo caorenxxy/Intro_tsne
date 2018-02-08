@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.2)  24 NOV 2017 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.26)  8 FEB 2018 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1924,10 +1924,10 @@ LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
 LaTeX Font Info:    Font shape `T1/Carlito-LF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 62.
 Package epstopdf Info: Source file: <./figs/fig1.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 541921 bytes
 (epstopdf)             Output file: <./figs/fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 116722 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig1-eps-converted-
 to.pdf ./figs/fig1.eps>
@@ -1948,10 +1948,10 @@ Package pdftex.def Info: ./figs/fig1-eps-converted-to.pdf used on input line 62
 
 ]
 Package epstopdf Info: Source file: <./figs/fig4.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 590031 bytes
 (epstopdf)             Output file: <./figs/fig4-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 137162 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig4-eps-converted-
 to.pdf ./figs/fig4.eps>
@@ -1968,10 +1968,10 @@ Package pdftex.def Info: ./figs/fig4-eps-converted-to.pdf used on input line 82
 
  <./figs/fig4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/fig5.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 1071602 bytes
 (epstopdf)             Output file: <./figs/fig5-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 160203 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig5-eps-converted-
 to.pdf ./figs/fig5.eps>
@@ -2004,10 +2004,10 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 
 ]
 Package epstopdf Info: Source file: <./figs/fig6.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 764308 bytes
 (epstopdf)             Output file: <./figs/fig6-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 159908 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig6-eps-converted-
 to.pdf ./figs/fig6.eps>
@@ -2025,10 +2025,10 @@ Package pdftex.def Info: ./figs/fig6-eps-converted-to.pdf used on input line 13
 
  <./figs/fig6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/fig7.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 1278853 bytes
 (epstopdf)             Output file: <./figs/fig7-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 28596 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig7-eps-converted-
 to.pdf ./figs/fig7.eps>
@@ -2050,10 +2050,10 @@ Overfull \vbox (1.12856pt too high) detected at line 153
 
  <./figs/fig7-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/fig8.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 1470158 bytes
 (epstopdf)             Output file: <./figs/fig8-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 12:23:56
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 86639 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig8-eps-converted-
 to.pdf ./figs/fig8.eps>
@@ -2074,10 +2074,10 @@ Package pdftex.def Info: ./figs/fig8-eps-converted-to.pdf used on input line 16
 
 ]
 Package epstopdf Info: Source file: <./figs/fig9.eps>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 101424 bytes
 (epstopdf)             Output file: <./figs/fig9-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:27:03
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 68123 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fig9-eps-converted-
 to.pdf ./figs/fig9.eps>
@@ -2101,10 +2101,10 @@ Package pdftex.def Info: ./figs/fig9-eps-converted-to.pdf used on input line 19
 
 ]
 Package epstopdf Info: Source file: <./figs/swiss.eps>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 356255 bytes
 (epstopdf)             Output file: <./figs/swiss-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 97873 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/swiss-eps-converted
 -to.pdf ./figs/swiss.eps>
@@ -2122,10 +2122,10 @@ Package pdftex.def Info: ./figs/swiss-eps-converted-to.pdf used on input line 2
 
  <./figs/swiss-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/pfe.eps>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 351859 bytes
 (epstopdf)             Output file: <./figs/pfe-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 104221 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/pfe-eps-converted-t
 o.pdf ./figs/pfe.eps>
@@ -2142,10 +2142,10 @@ Package pdftex.def Info: ./figs/pfe-eps-converted-to.pdf used on input line 248
 
  <./figs/pfe-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/pca.eps>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 351472 bytes
 (epstopdf)             Output file: <./figs/pca-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 103658 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/pca-eps-converted-t
 o.pdf ./figs/pca.eps>
@@ -2163,10 +2163,10 @@ Package pdftex.def Info: ./figs/pca-eps-converted-to.pdf used on input line 257
 
  <./figs/pca-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/isomap.eps>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 351751 bytes
 (epstopdf)             Output file: <./figs/isomap-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 103079 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/isomap-eps-converte
 d-to.pdf ./figs/isomap.eps>
@@ -2184,10 +2184,10 @@ Package pdftex.def Info: ./figs/isomap-eps-converted-to.pdf used on input line
 
  <./figs/isomap-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/lle0.eps>
-(epstopdf)                    date: 2017-11-24 14:33:29
-(epstopdf)                    size: 354530 bytes
+(epstopdf)                    date: 2018-02-08 11:33:09
+(epstopdf)                    size: 354582 bytes
 (epstopdf)             Output file: <./figs/lle0-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 14:33:48
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 105074 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/lle0-eps-converted-
 to.pdf ./figs/lle0.eps>
@@ -2204,10 +2204,10 @@ Package pdftex.def Info: ./figs/lle0-eps-converted-to.pdf used on input line 27
 
  <./figs/lle0-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/le5.eps>
-(epstopdf)                    date: 2017-11-24 14:16:57
-(epstopdf)                    size: 327523 bytes
+(epstopdf)                    date: 2018-02-08 11:33:08
+(epstopdf)                    size: 327575 bytes
 (epstopdf)             Output file: <./figs/le5-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 14:17:37
+(epstopdf)                    date: 2018-02-08 11:33:08
 (epstopdf)                    size: 90733 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/le5-eps-converted-t
 o.pdf ./figs/le5.eps>
@@ -2225,10 +2225,10 @@ Package pdftex.def Info: ./figs/le5-eps-converted-to.pdf used on input line 282
 
  <./figs/le5-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/lle.eps>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 351810 bytes
 (epstopdf)             Output file: <./figs/lle-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 00:29:29
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 103581 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/lle-eps-converted-t
 o.pdf ./figs/lle.eps>
@@ -2246,10 +2246,10 @@ Package pdftex.def Info: ./figs/lle-eps-converted-to.pdf used on input line 290
 
  <./figs/lle-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./figs/lpp.eps>
-(epstopdf)                    date: 2017-11-24 14:27:40
-(epstopdf)                    size: 355666 bytes
+(epstopdf)                    date: 2018-02-08 11:33:09
+(epstopdf)                    size: 355718 bytes
 (epstopdf)             Output file: <./figs/lpp-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-24 14:28:07
+(epstopdf)                    date: 2018-02-08 11:33:09
 (epstopdf)                    size: 105002 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/lpp-eps-converted-t
 o.pdf ./figs/lpp.eps>
@@ -2300,11 +2300,11 @@ Package rerunfilecheck Info: File `fi-pdflatex.out' has not changed.
 (rerunfilecheck)             Checksum: 96C19A5FAFE7881C280E48F8946B23AD;692.
  ) 
 Here is how much of TeX's memory you used:
- 31172 strings out of 492995
- 588945 string characters out of 6136403
- 697259 words of memory out of 5000000
+ 31171 strings out of 492995
+ 588921 string characters out of 6136402
+ 697111 words of memory out of 5000000
  33803 multiletter control sequences out of 15000+600000
- 215486 words of font info for 148 fonts, out of 8000000 for 9000
+ 215063 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,16n,76p,810b,1373s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/arev/arevoms.enc}{c:/texlive/2017
@@ -2321,7 +2321,7 @@ iwonar.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texl
 ive/2017/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7t.pfb><c:/texliv
 e/2017/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb><c:/texlive/
 2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on fi-pdflatex.pdf (31 pages, 1701011 bytes).
+Output written on fi-pdflatex.pdf (31 pages, 1701333 bytes).
 PDF statistics:
  391 PDF objects out of 1000 (max. 8388607)
  302 compressed objects within 4 object streams
