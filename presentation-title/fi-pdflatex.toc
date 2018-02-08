@@ -1,0 +1,10 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Manifold}{2}{0}{1}
+\beamer@sectionintoc {2}{Manifold based Dimensionality Reduction}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Principal Component Analysis}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Multidimensional scaling}{9}{0}{2}
+\beamer@subsectionintoc {2}{3}{ISOMAP}{10}{0}{2}
+\beamer@subsectionintoc {2}{4}{Local Linear Embedding}{11}{0}{2}
+\beamer@subsectionintoc {2}{5}{Laplacian Eigenmaps}{13}{0}{2}
+\beamer@subsectionintoc {2}{6}{Vector Field based Dimensionality Reduction}{17}{0}{2}
+\beamer@sectionintoc {3}{Manifold Regularization : Semi-Supervised Setting}{26}{0}{3}
