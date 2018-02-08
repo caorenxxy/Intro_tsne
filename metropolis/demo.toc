@@ -1,4 +1,6 @@
 \beamer@sectionintoc {1}{Dimensionality Reduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Titleformats}{12}{0}{2}
-\beamer@sectionintoc {3}{Elements}{17}{0}{3}
-\beamer@sectionintoc {4}{Conclusion}{34}{0}{4}
+\beamer@sectionintoc {2}{Stochastic Neighbor Embedding}{7}{0}{2}
+\beamer@sectionintoc {3}{t-Distributed Stochastic Neighbor Embedding}{13}{0}{3}
+\beamer@sectionintoc {4}{Hardwriting digit visualization}{17}{0}{4}
+\beamer@sectionintoc {5}{Demo}{28}{0}{5}
+\beamer@sectionintoc {6}{Resource}{30}{0}{6}
