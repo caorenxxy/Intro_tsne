@@ -8,7 +8,7 @@ from math import *
 def drawplot():
 	mu = 0
 	sigma = 1
-	x = np.arange(0, 6, 0.1)
+	x = np.arange(0, 6.1, 0.1)
 
 	y = stats.norm.pdf(x, 0, 1)
 	z = stats.t.pdf(x, 1)
@@ -20,7 +20,7 @@ def drawplot():
 	plt.ylabel('Probablity density')
 	plt.legend() 
 
-
+	plt.xlim(0, 6)
 	plt.plot([0, 6], [0.025, 0.025], 'r--', linewidth = 0.7)
 	plt.plot([0, 6], [0.2, 0.2], 'r--', linewidth = 0.7)
 

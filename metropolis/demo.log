@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.2)  9 FEB 2018 13:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.2)  9 FEB 2018 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1279,20 +1279,15 @@ Overfull \vbox (0.92664pt too high) detected at line 153
 
  <./image/tsne2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/tsne5.eps>
-(epstopdf)                    date: 2018-02-09 13:06:11
-(epstopdf)                    size: 31584 bytes
+(epstopdf)                    date: 2018-02-09 14:22:17
+(epstopdf)                    size: 31245 bytes
 (epstopdf)             Output file: <./image/tsne5-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-02-09 13:04:38
-(epstopdf)                    size: 15261 bytes
+(epstopdf)                    date: 2018-02-09 14:22:28
+(epstopdf)                    size: 15260 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/tsne5-eps-converte
 d-to.pdf ./image/tsne5.eps>
 (epstopdf)             \includegraphics on input line 164.
-runsystem(repstopdf --outfile=./image/tsne5-eps-converted-to.pdf ./image/tsne5.
-eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./image/tsne5-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-02-09 13:06:24
-(epstopdf)                    size: 15252 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <./image/tsne5-eps-converted-to.pdf, id=196, 462.72874pt x 346.29375pt>
 File: ./image/tsne5-eps-converted-to.pdf Graphic file (type pdf)
@@ -1307,7 +1302,32 @@ Overfull \vbox (7.51534pt too high) detected at line 164
 
 [17
 
- <./image/tsne5-eps-converted-to.pdf>] [18
+ <./image/tsne5-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./image/mnist_tsne.eps>
+(epstopdf)                    date: 2018-02-09 14:42:57
+(epstopdf)                    size: 4470088 bytes
+(epstopdf)             Output file: <./image/mnist_tsne-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-09 14:44:10
+(epstopdf)                    size: 1947510 bytes
+(epstopdf)             Command: <repstopdf --outfile=./image/mnist_tsne-eps-con
+verted-to.pdf ./image/mnist_tsne.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+
+<./image/mnist_tsne-eps-converted-to.pdf, id=239, 2710.125pt x 2983.145pt>
+File: ./image/mnist_tsne-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./image/mnist_tsne-eps-converted-to.pdf>
+Package pdftex.def Info: ./image/mnist_tsne-eps-converted-to.pdf used on input 
+line 172.
+(pdftex.def)             Requested size: 189.72813pt x 208.84149pt.
+
+Overfull \vbox (2.0774pt too high) detected at line 172
+ []
+
+[18
+
+ <./image/mnist_tsne-eps-converted-to.pdf>] [19
 
 ]
 Package epstopdf Info: Source file: <./image/experiment/example.eps>
@@ -1319,21 +1339,21 @@ o.pdf>
 (epstopdf)                    size: 36412 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/example
 -eps-converted-to.pdf ./image/experiment/example.eps>
-(epstopdf)             \includegraphics on input line 173.
+(epstopdf)             \includegraphics on input line 180.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/example-eps-converted-to.pdf, id=244, 462.72874pt x 346.293
+<./image/experiment/example-eps-converted-to.pdf, id=254, 462.72874pt x 346.293
 75pt>
 File: ./image/experiment/example-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/example-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/example-eps-converted-to.pdf used o
-n input line 173.
+n input line 180.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 173
+Overfull \vbox (18.32416pt too high) detected at line 180
  []
 
-[19
+[20
 
  <./image/experiment/example-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/pca.eps>
@@ -1345,21 +1365,21 @@ f>
 (epstopdf)                    size: 42083 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/pca-eps
 -converted-to.pdf ./image/experiment/pca.eps>
-(epstopdf)             \includegraphics on input line 181.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/pca-eps-converted-to.pdf, id=276, 462.72874pt x 346.29375pt
+<./image/experiment/pca-eps-converted-to.pdf, id=285, 462.72874pt x 346.29375pt
 >
 File: ./image/experiment/pca-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/pca-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/pca-eps-converted-to.pdf used on in
-put line 181.
+put line 188.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 181
+Overfull \vbox (18.32416pt too high) detected at line 188
  []
 
-[20
+[21
 
  <./image/experiment/pca-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/lda.eps>
@@ -1371,21 +1391,21 @@ f>
 (epstopdf)                    size: 39798 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/lda-eps
 -converted-to.pdf ./image/experiment/lda.eps>
-(epstopdf)             \includegraphics on input line 189.
+(epstopdf)             \includegraphics on input line 196.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/lda-eps-converted-to.pdf, id=319, 462.72874pt x 346.29375pt
+<./image/experiment/lda-eps-converted-to.pdf, id=328, 462.72874pt x 346.29375pt
 >
 File: ./image/experiment/lda-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/lda-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/lda-eps-converted-to.pdf used on in
-put line 189.
+put line 196.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 189
+Overfull \vbox (18.32416pt too high) detected at line 196
  []
 
-[21
+[22
 
  <./image/experiment/lda-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/mds.eps>
@@ -1397,21 +1417,21 @@ f>
 (epstopdf)                    size: 44457 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/mds-eps
 -converted-to.pdf ./image/experiment/mds.eps>
-(epstopdf)             \includegraphics on input line 196.
+(epstopdf)             \includegraphics on input line 203.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/mds-eps-converted-to.pdf, id=361, 462.72874pt x 346.29375pt
+<./image/experiment/mds-eps-converted-to.pdf, id=370, 462.72874pt x 346.29375pt
 >
 File: ./image/experiment/mds-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/mds-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/mds-eps-converted-to.pdf used on in
-put line 196.
+put line 203.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 196
+Overfull \vbox (18.32416pt too high) detected at line 203
  []
 
-[22
+[23
 
  <./image/experiment/mds-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/isomap.eps>
@@ -1423,21 +1443,21 @@ Package epstopdf Info: Source file: <./image/experiment/isomap.eps>
 (epstopdf)                    size: 40886 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/isomap-
 eps-converted-to.pdf ./image/experiment/isomap.eps>
-(epstopdf)             \includegraphics on input line 204.
+(epstopdf)             \includegraphics on input line 211.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/isomap-eps-converted-to.pdf, id=400, 462.72874pt x 346.2937
+<./image/experiment/isomap-eps-converted-to.pdf, id=409, 462.72874pt x 346.2937
 5pt>
 File: ./image/experiment/isomap-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/isomap-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/isomap-eps-converted-to.pdf used on
- input line 204.
+ input line 211.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 204
+Overfull \vbox (18.32416pt too high) detected at line 211
  []
 
-[23
+[24
 
  <./image/experiment/isomap-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/lle.eps>
@@ -1449,21 +1469,21 @@ f>
 (epstopdf)                    size: 38742 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/lle-eps
 -converted-to.pdf ./image/experiment/lle.eps>
-(epstopdf)             \includegraphics on input line 211.
+(epstopdf)             \includegraphics on input line 218.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/lle-eps-converted-to.pdf, id=442, 462.72874pt x 346.29375pt
+<./image/experiment/lle-eps-converted-to.pdf, id=451, 462.72874pt x 346.29375pt
 >
 File: ./image/experiment/lle-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/lle-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/lle-eps-converted-to.pdf used on in
-put line 211.
+put line 218.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 211
+Overfull \vbox (18.32416pt too high) detected at line 218
  []
 
-[24
+[25
 
  <./image/experiment/lle-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/hlle.eps>
@@ -1475,21 +1495,21 @@ df>
 (epstopdf)                    size: 30248 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/hlle-ep
 s-converted-to.pdf ./image/experiment/hlle.eps>
-(epstopdf)             \includegraphics on input line 218.
+(epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/hlle-eps-converted-to.pdf, id=486, 462.72874pt x 346.29375p
+<./image/experiment/hlle-eps-converted-to.pdf, id=496, 462.72874pt x 346.29375p
 t>
 File: ./image/experiment/hlle-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/hlle-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/hlle-eps-converted-to.pdf used on i
-nput line 218.
+nput line 225.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 218
+Overfull \vbox (18.32416pt too high) detected at line 225
  []
 
-[25
+[26
 
  <./image/experiment/hlle-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/le.eps>
@@ -1501,20 +1521,20 @@ Package epstopdf Info: Source file: <./image/experiment/le.eps>
 (epstopdf)                    size: 35155 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/le-eps-
 converted-to.pdf ./image/experiment/le.eps>
-(epstopdf)             \includegraphics on input line 225.
+(epstopdf)             \includegraphics on input line 232.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/le-eps-converted-to.pdf, id=532, 462.72874pt x 346.29375pt>
+<./image/experiment/le-eps-converted-to.pdf, id=541, 462.72874pt x 346.29375pt>
 File: ./image/experiment/le-eps-converted-to.pdf Graphic file (type pdf)
 <use ./image/experiment/le-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/le-eps-converted-to.pdf used on inp
-ut line 225.
+ut line 232.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 225
+Overfull \vbox (18.32416pt too high) detected at line 232
  []
 
-[26
+[27
 
  <./image/experiment/le-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/ltsa.eps>
@@ -1526,21 +1546,21 @@ df>
 (epstopdf)                    size: 30905 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/ltsa-ep
 s-converted-to.pdf ./image/experiment/ltsa.eps>
-(epstopdf)             \includegraphics on input line 232.
+(epstopdf)             \includegraphics on input line 239.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/ltsa-eps-converted-to.pdf, id=575, 462.72874pt x 346.29375p
+<./image/experiment/ltsa-eps-converted-to.pdf, id=585, 462.72874pt x 346.29375p
 t>
 File: ./image/experiment/ltsa-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/ltsa-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/ltsa-eps-converted-to.pdf used on i
-nput line 232.
+nput line 239.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 232
+Overfull \vbox (18.32416pt too high) detected at line 239
  []
 
-[27
+[28
 
  <./image/experiment/ltsa-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./image/experiment/tsne.eps>
@@ -1552,32 +1572,32 @@ df>
 (epstopdf)                    size: 35846 bytes
 (epstopdf)             Command: <repstopdf --outfile=./image/experiment/tsne-ep
 s-converted-to.pdf ./image/experiment/tsne.eps>
-(epstopdf)             \includegraphics on input line 239.
+(epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
 
-<./image/experiment/tsne-eps-converted-to.pdf, id=620, 462.72874pt x 346.29375p
+<./image/experiment/tsne-eps-converted-to.pdf, id=629, 462.72874pt x 346.29375p
 t>
 File: ./image/experiment/tsne-eps-converted-to.pdf Graphic file (type pdf)
  <use ./image/experiment/tsne-eps-converted-to.pdf>
 Package pdftex.def Info: ./image/experiment/tsne-eps-converted-to.pdf used on i
-nput line 239.
+nput line 246.
 (pdftex.def)             Requested size: 300.77011pt x 225.08826pt.
 
-Overfull \vbox (18.32416pt too high) detected at line 239
+Overfull \vbox (18.32416pt too high) detected at line 246
  []
 
-[28
+[29
 
- <./image/experiment/tsne-eps-converted-to.pdf>] [29
-
-] [30
+ <./image/experiment/tsne-eps-converted-to.pdf>] [30
 
 ] [31
 
 ] [32
 
+] [33
+
 ]
-[33
+[34
 
 ]
 \tf@nav=\write6
@@ -1589,11 +1609,11 @@ Overfull \vbox (18.32416pt too high) detected at line 239
 \tf@snm=\write8
 \openout8 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 262.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 262.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (./demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 262.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 262.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
 Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: 428112544172BEDC74302F89072293E3;349.
 
@@ -1606,10 +1626,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 30711 strings out of 492995
- 745736 string characters out of 6136403
+ 30720 strings out of 492995
+ 745960 string characters out of 6136403
  961391 words of memory out of 5000000
- 33539 multiletter control sequences out of 15000+600000
+ 33545 multiletter control sequences out of 15000+600000
  10298 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,98p,1889b,711s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1627,10 +1647,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2017/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
 /amsfonts/symbols/msbm10.pfb>
-Output written on demo.pdf (33 pages, 741547 bytes).
+Output written on demo.pdf (34 pages, 2687642 bytes).
 PDF statistics:
- 761 PDF objects out of 1000 (max. 8388607)
- 327 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 770 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
