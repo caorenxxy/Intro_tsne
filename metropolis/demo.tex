@@ -68,11 +68,24 @@ Define the similarity of data point $\bold{x}_i$ in original space as conditiona
 \begin{displaymath}
 	p_{j|i} = \frac{\exp{(-\Vert\bol{x}_i - \bol{x}_j\Vert^2 / 2\sigma_i^2)}}{\sum_{k \neq i}\exp(-\Vert\bol{x}_i - \bol{x}_k\Vert^2 / 2\sigma_i^2)}
 \end{displaymath}
+\begin{figure}
+\centering
+\includegraphics[scale=0.2]{./image/hd.eps}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}{Stochastic Neighbor Embedding}
 In low-dimensional space, define the similarity $q_{j|i}$
 \begin{displaymath}
 	q_{j|i} = \frac{\exp{(-\Vert\bol{y}_i - \bol{y}_j\Vert^2)}}{\sum_{k \neq i}\exp(-\Vert\bol{y}_i - \bol{y}_k\Vert^2)}
 \end{displaymath}
+\begin{figure}
+\centering
+\includegraphics[scale=0.2]{./image/ld.eps}
+\end{figure}
 \end{frame}
+
 
 \begin{frame}{Cost function of SNE}
 If the map points $\bol{y}_i$ and $\bol{y}_j$ correctly model the similarity between the high-diminsional datapoints $\bol{x}_i$ and $\bol{x}_j$, the conditional probability $p_{j|i}$ and $q_{j|i}$ will be equal. Use the Kullback-Leibler divergences to minimize the mismatch:
@@ -117,6 +130,7 @@ The ``Crowding'' problem
 \includegraphics[scale=0.3]{./image/sne.eps}
 \end{figure}
 \end{frame}
+
 \section{t-Distributed Stochastic Neighbor Embedding}
 \begin{frame}{t-Distributed Stochastic Neighbor Embedding}
 Symmetric SNE by using joint probability distribution instead of conditional probability distribution.
@@ -137,7 +151,6 @@ Use t distribution (Heavy-tailed distribution) to model similarity in low-dimens
 \includegraphics[scale=0.5]{./image/tsne2.eps}
 \end{figure}
 \end{frame}
-
 
 \begin{frame}{t-Distributed Stochastic Neighbor Embedding}
 The joint probabilities $q_{ij}$ are defined as
@@ -174,7 +187,6 @@ The joint probabilities $q_{ij}$ are defined as
 \includegraphics[scale=0.65]{./image/experiment/lda.eps}
 \end{figure}
 \end{frame}
-
 
 \begin{frame}{Hardwriting digit visualization}
 \begin{figure}
